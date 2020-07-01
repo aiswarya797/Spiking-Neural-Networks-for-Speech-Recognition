@@ -1,5 +1,7 @@
 ### Spiking-Neural-Networks-for-Speech-Recognition
-#### This is an implementation of the paper "A Spiking Network that Learns to Extract Spike Signatures from Speech Signals" by Amirhossein Tavanaei, Anthony S Maida. (**The code is not complete as of now**)
+#### This is an implementation of the paper "A Spiking Network that Learns to Extract Spike Signatures from Speech Signals" by Amirhossein Tavanaei, Anthony S Maida. 
+
+##### This is an on going project
 
 #### Usage
 
